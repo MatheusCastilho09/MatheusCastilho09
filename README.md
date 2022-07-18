@@ -2,7 +2,7 @@
 
 - 🔭 Passionate about programming!
 - 🌱 Self-taught in python
-- 💬 Seeking to improve in the area of back-end development to improve my knowledge and staff, also seeking to develop and grow the company's growth.
+- 💬 My goal is to improve my knowledge in the area of back-end development, also seeking to develop and grow the company.
 - 📫 dev.castilho09@gmail.com
 
 <div align="center">
