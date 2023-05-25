@@ -1,7 +1,7 @@
 ### Hello, I'm Matheus Castilho 👋
 
 - 🔭 Passionate about programming!
-- 🌱 Self-taught in python
+- 🌱 Software Engineering student
 - 📫 dev.castilho09@gmail.com
 
 <div align="center">
